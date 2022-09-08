@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+    text-align: center;
+}
+
+.red {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 1px 1px magenta;
+    color: yellow;
+    width: 100%;
+    margin:0;
+}
+
+#inp {
+    width: 30%;
+}
+
+h4{
+    color: cyan;
+}
+
+canvas{
+    border: 8px dotted grey;
+    border-radius: 15px;
+}
